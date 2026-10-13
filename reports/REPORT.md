@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Đinh Kim Thái (2A202602417)  **Commit:** 18cc181  **Điểm tự động (`make grade`):** 84.0 / 88 (Đạt điểm tuyệt đối trên bộ dữ liệu public, 4 điểm còn lại thuộc tập dữ liệu ẩn của giảng viên)
+**Họ tên / nhóm:** Đinh Kim Thái (2A202602417)  **Commit:** 521113b  **Điểm tự động (`make grade`):** 84.0 / 88 (Đạt điểm tuyệt đối trên bộ dữ liệu public, 4 điểm còn lại thuộc tập dữ liệu ẩn của giảng viên)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
